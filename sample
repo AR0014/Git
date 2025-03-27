@@ -2,11 +2,5 @@ writing this to test git local repository
 Writing this after the 1st commit
 writing this to test the push error after comitting from git hub
 writing this to check
-<<<<<<< HEAD
-=======
-test
->>>>>>> afdf0b6 (test)
 Writing this to test confict from branch reddy
-=======
-Writing this to test conflict from features1
->>>>>>> features1
+
